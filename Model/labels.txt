@@ -1,0 +1,5 @@
+0 Hello
+1 Thank you
+2 ILoveyou
+3 Yes
+4 Dislike
